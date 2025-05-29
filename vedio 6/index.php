@@ -18,8 +18,8 @@ $subscriber = $result['items'][0]['statistics']['subscriberCount'];
 
 //latest video
 $urlLatestVideo = "https://www.googleapis.com/youtube/v3/search?key=AIzaSyBqqmD7nT7HdI-nkueVf3tD4m6rZWxERQg&channelId=UC9HfyKxxb8hSaagKgWGftTQ&maxResults=1&order=date&part=snippet";
-$result = get_Curl($urlLatestVideo);
-$latestVideoId = $result['items'][0]['id']['videoId'];
+// $result = get_Curl($urlLatestVideo);
+// $latestVideoId = $result['items'][0]['id']['videoId'];
 
 //instagram API
 $clientID = "1038828714472843";

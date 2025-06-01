@@ -5,7 +5,7 @@
         <div class="text-center">
           <img src="<?= base_url(); ?>assets/img/anita.jpg" class="rounded-circle img-thumbnail">
           <h1 class="display-4">Anita</h1>
-          <h3 class="lead">Mahasiswa | Penari | Menarir</h3>
+          <h3 class="lead">Mahasiswa | Penari | Menari</h3>
         </div>
       </div>
     </div>
@@ -70,7 +70,7 @@
             <div class="card">
               <img class="card-img-top" src="<?= base_url(); ?>assets/img/thumbs/6.jpg" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Hobi saya Menari,  dan Membaca Webtoon. Warna Kesukaan Saya Brown dan Pink</p>
+                <p class="card-text">Hobi saya Menari,Membaca Webtoon dan berbisnis/jualan juga yang bisa menghasilkan uang dengan sendiri. Warna Kesukaan Saya Brown dan Pink</p>
               </div>
             </div>
           </div>
